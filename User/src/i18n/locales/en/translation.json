@@ -1,0 +1,34 @@
+{
+  "common": {
+    "welcome": "Welcome",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout",
+    "search": "Search",
+    "home": "Home",
+    "browse": "Browse",
+    "all_books": "All Books",
+    "categories": "Categories",
+    "new_releases": "New Releases",
+    "about": "About",
+    "profile": "Profile",
+    "my_books": "My Books",
+    "settings": "Settings"
+  },
+  "categories": {
+    "fiction": "Fiction",
+    "non_fiction": "Non-Fiction",
+    "science": "Science"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "remember_me": "Remember me",
+    "forgot_password": "Forgot password?"
+  },
+  "validation": {
+    "required": "This field is required",
+    "email_invalid": "Invalid email address",
+    "password_min": "Password must be at least 6 characters"
+  }
+} 

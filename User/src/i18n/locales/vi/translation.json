@@ -1,0 +1,34 @@
+{
+  "common": {
+    "welcome": "Xin chào",
+    "login": "Đăng nhập",
+    "register": "Đăng ký",
+    "logout": "Đăng xuất",
+    "search": "Tìm kiếm",
+    "home": "Trang chủ",
+    "browse": "Duyệt sách",
+    "all_books": "Tất cả sách",
+    "categories": "Thể loại",
+    "new_releases": "Sách mới",
+    "about": "Giới thiệu",
+    "profile": "Hồ sơ",
+    "my_books": "Sách của tôi",
+    "settings": "Cài đặt"
+  },
+  "categories": {
+    "fiction": "Tiểu thuyết",
+    "non_fiction": "Phi tiểu thuyết",
+    "science": "Khoa học"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mật khẩu",
+    "remember_me": "Ghi nhớ đăng nhập",
+    "forgot_password": "Quên mật khẩu?"
+  },
+  "validation": {
+    "required": "Trường này là bắt buộc",
+    "email_invalid": "Địa chỉ email không hợp lệ",
+    "password_min": "Mật khẩu phải có ít nhất 6 ký tự"
+  }
+} 

@@ -1,0 +1,34 @@
+{
+  "common": {
+    "welcome": "환영합니다",
+    "login": "로그인",
+    "register": "회원가입",
+    "logout": "로그아웃",
+    "search": "검색",
+    "home": "홈",
+    "browse": "책 둘러보기",
+    "all_books": "전체 도서",
+    "categories": "카테고리",
+    "new_releases": "신간",
+    "about": "소개",
+    "profile": "프로필",
+    "my_books": "내 서재",
+    "settings": "설정"
+  },
+  "categories": {
+    "fiction": "소설",
+    "non_fiction": "논픽션",
+    "science": "과학"
+  },
+  "auth": {
+    "email": "이메일",
+    "password": "비밀번호",
+    "remember_me": "로그인 유지",
+    "forgot_password": "비밀번호를 잊으셨나요?"
+  },
+  "validation": {
+    "required": "필수 입력 항목입니다",
+    "email_invalid": "유효하지 않은 이메일 주소입니다",
+    "password_min": "비밀번호는 최소 6자 이상이어야 합니다"
+  }
+} 

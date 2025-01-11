@@ -1,0 +1,47 @@
+.btn {
+    @include button-variant($primary-color);
+    
+    &-secondary {
+        @include button-variant($secondary-color);
+    }
+    
+    &-success {
+        @include button-variant($success-color);
+    }
+    
+    &-danger {
+        @include button-variant($danger-color);
+    }
+    
+    &-warning {
+        @include button-variant($warning-color);
+    }
+    
+    &-info {
+        @include button-variant($info-color);
+    }
+    
+    &-sm {
+        padding: $spacing-1 $spacing-2;
+        font-size: 0.875rem;
+    }
+    
+    &-lg {
+        padding: $spacing-3 $spacing-5;
+        font-size: 1.125rem;
+    }
+    
+    &-block {
+        display: block;
+        width: 100%;
+    }
+    
+    &-outline {
+        background-color: transparent;
+        border: 1px solid currentColor;
+        
+        &:hover {
+            color: white;
+        }
+    }
+} 
